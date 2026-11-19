@@ -7,7 +7,7 @@ A handheld device that captures the signal of any infrared remote, analyzes it w
 
 <p align="center"><img src="images/device.png" width="380" alt="The IR Cloner device showing the Capture screen"></p>
 
-**Team:** Talal Aljohani · Saad Obaid · Moatasim Ahmad · Yousef Ahmed
+**Team:** Talal Aljohani · Saad Obaid · Moatasim Ahmad · Yousef Ahmed<br>
 **Supervisor:** Dr. Abdulmajeed Alenezi
 
 ---
