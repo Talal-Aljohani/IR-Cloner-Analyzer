@@ -57,8 +57,9 @@ The **Math** screen applies the course to your own capture: it measures the sens
 
 ## Hardware guide
 
-[**Hardware Guide (PDF)**](docs/Hardware_Guide.pdf): how we built the hardware from start to end: the circuits, the IR board in KiCad,
-laser fabrication, version 1 with our own main board, the redesign around the CYD board, the 3D-printed case, and the first power-on.
+[**Hardware Guide (PDF)**](docs/Hardware_Guide.pdf): a step-by-step build manual, one step per page with the parts and where they go:
+the two circuits, the IR board (KiCad design, laser cutting, every part in order), version 1 and the redesign around the CYD board,
+the case assembly, and the first power-on.
 
 ## Repository layout
 
