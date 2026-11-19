@@ -1,0 +1,8 @@
+"Refs","Value","Footprint","Qty"
+"D1-D3","IR LED 5mm","SS_Laser:SS_LED_D5.0mm","3"
+"J2","LINK to main board","SS_Laser:SS_Link_1x05_P2.54","1"
+"PD1","IR photodiode 5mm","SS_Laser:SS_PD_D5.0mm","1"
+"Q1","2N2222 (TO-92)","SS_Laser:SS_TO-92_Wide","1"
+"R1","1M","SS_Laser:SS_R_Axial_P7.62","1"
+"R2","150","SS_Laser:SS_R_Axial_P7.62","1"
+"R3a?,R3b?,R3c?","33","SS_Laser:SS_R_Axial_P7.62","3"
