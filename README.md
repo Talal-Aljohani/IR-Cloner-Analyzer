@@ -55,16 +55,10 @@ The **Math** screen applies the course to your own capture: it measures the sens
 
 <p align="center"><img src="images/spectrum.png" width="760" alt="Measured spectrum with the carrier peak at 38 kHz"></p>
 
-## Documents
+## Hardware guide
 
-| File | Language | Contents |
-|---|---|---|
-| [Study Guide](docs/Study_Guide_EN.pdf) | English | The code that matters for the course, step by step, with a glossary of every term |
-| [Study Guide](docs/Study_Guide_AR.pdf) | Arabic | The same guide in Arabic |
-| [Theory Tutorial](docs/Theory_Tutorial_AR.pdf) | Arabic | The full theory, matched to the course chapters (1, 2, 3, 4, 5, 10) |
-| [Code Guide](docs/Code_Guide_AR.pdf) | Arabic | Line-by-line walk through every signal-processing function |
-| [User Guide](docs/User_Guide_AR.pdf) | Arabic | How to use every screen of the device |
-| [Presentation](docs/Presentation_EN.pdf) | English | The project presentation |
+[**Hardware Guide (PDF)**](docs/Hardware_Guide.pdf): how we built the hardware from start to end: the circuits, the IR board in KiCad,
+laser fabrication, version 1 with our own main board, the redesign around the CYD board, the 3D-printed case, and the first power-on.
 
 ## Repository layout
 
@@ -84,7 +78,7 @@ firmware/
 hardware/
   ir_board/           KiCad 10 project of the IR board (receiver + 3 LEDs), with fab files (schematic, BOM, gerbers)
   case/               3D-printed case (STL) and the Autodesk Fusion script that builds it
-docs/                 guides and presentation (PDF)
+docs/                 Hardware_Guide.pdf
 images/               pictures used in this README
 ```
 
